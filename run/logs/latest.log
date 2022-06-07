@@ -1,0 +1,18 @@
+[06Jun2022 22:22:38.861] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 1.18, --assetsDir, C:\Users\max24\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 38.0.17, --fml.mcVersion, 1.18, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20211130.085255, --mod, riyutakesciv, --all, --output, C:\MinecraftMod\src\generated\resources, --existing, C:\MinecraftMod\src\main\resources]
+[06Jun2022 22:22:38.870] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0.24+9.0.24+main.7be9f01d starting: java version 17.0.1 by Oracle Corporation
+[06Jun2022 22:22:39.045] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/max24/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%2327! Service=ModLauncher Env=CLIENT
+[06Jun2022 22:22:41.259] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\max24\.gradle\caches\forge_gradle\assets, --assetIndex, 1.18, --mod, riyutakesciv, --all, --output, C:\MinecraftMod\src\generated\resources, --existing, C:\MinecraftMod\src\main\resources]
+[22:22:41] [main/INFO]: Initializing Data Gatherer for mods [riyutakesciv]
+[22:22:49] [modloading-worker-0/INFO]: Forge mod loading, version 38.0.17, for MC 1.18 with MCP 20211130.085255
+[22:22:49] [modloading-worker-0/INFO]: MinecraftForge v38.0.17 Initialized
+[22:22:50] [main/WARN]: Assets URL 'union:/C:/Users/max24/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18-38.0.17_mapped_official_1.18.1/forge-1.18-38.0.17_mapped_official_1.18.1-recomp.jar%2377!/assets/.mcassetsroot' uses unexpected schema
+[22:22:50] [main/WARN]: Assets URL 'union:/C:/Users/max24/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18-38.0.17_mapped_official_1.18.1/forge-1.18-38.0.17_mapped_official_1.18.1-recomp.jar%2377!/data/.mcassetsroot' uses unexpected schema
+[22:22:50] [main/INFO]: Starting provider: Recipes
+[22:22:50] [main/INFO]: Recipes finished after 0 ms
+[22:22:50] [main/INFO]: Starting provider: MyTutorial LootTables
+[22:22:50] [main/INFO]: MyTutorial LootTables finished after 1 ms
+[22:22:50] [main/INFO]: Starting provider: Block Tags
+[22:22:50] [main/INFO]: Block Tags finished after 17 ms
+[22:22:50] [main/INFO]: Starting provider: Tutorial Tags
+[22:22:50] [main/INFO]: Tutorial Tags finished after 1 ms
+[22:22:50] [main/INFO]: Starting provider: Block States: riyutakesciv
